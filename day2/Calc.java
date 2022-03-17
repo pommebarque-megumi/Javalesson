@@ -7,7 +7,7 @@ public class Calc{
 		System.out.println(3 - 3);//引き算
 		System.out.println(4 * 3);//掛け算
 		System.out.println(4 / 3);//割り算(整数限定)
-		System.out.println(4 % 3);//割り算余りあり
+		System.out.println(4 % 3);//割り算余りのみ
 		
 		System.out.println(7*(3+2)/3);//11
 		System.out.println(7*3+5/2);//22

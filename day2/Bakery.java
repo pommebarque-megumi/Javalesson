@@ -1,6 +1,6 @@
 public class Bakery{
 	public static void main(String[] args){
-int money=0;
+			int money=0;
 			System.out.println("モーニングセットを注文します");
 		  money=450;
 			System.out.println("total" + money);
