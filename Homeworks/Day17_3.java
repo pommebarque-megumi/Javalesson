@@ -16,6 +16,6 @@ public class Day17_3{
 		int ride = new Scanner(System.in).nextInt();
 		int total = (hobby + color + ride);
 		System.out.println("あなたのTotalは　：" + total + "点でした。");
-		System.out.println("Totalが　8～23点なら：犬　　24～35点なら：猫　　36～44点なら：小鳥　　45～60点なら：魚です。");
+		System.out.println("Totalが　8～23点なら：犬　　24～35点なら：猫　　36～44点なら：熱帯魚　　45～60点なら：観葉植物です。");
 	}
 }
