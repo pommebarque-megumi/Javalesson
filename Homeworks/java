@@ -1,0 +1,11 @@
+public class Day21_3weather.java{
+		public static void main(String[] args){
+				booleran tenki = true;
+				if (tenki == true){ //もし天気なら
+					System.out.println("洗たくをします");
+					System.out.println("散歩をします");
+} else{　//もしそうでなければ
+					System.out.println("DVDを見ます");
+      }
+			}
+	}
