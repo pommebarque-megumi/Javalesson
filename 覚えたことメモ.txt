@@ -1,0 +1,4 @@
+byte < short < int < long　整数
+float < double　小数点
+"char '一文字' < String "文字列"
+"boolearn true or fales

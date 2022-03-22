@@ -1,0 +1,31 @@
+拡張子
+
+.txt 一般的なテキストファイル
+//画像ファイル
+.jpg (.jpeg)画像ファイル
+.png 透明が使える画像ファイル
+.gif 色数の少ない軽い画像(256色程度)
+//音声ファイル
+.aiff
+.wav
+.mp3 (圧縮されている)
+.ogg
+//動画ファイル
+.mp4
+.avi
+.mkv
+//プログラム
+.java
+.php
+.py
+.js
+.html
+.css
+.cs
+//その他
+.pdf(ポータブルドキュメントフォーマット)
+.xls excel
+.doc Word
+.psd Photoshop
+.ai Illustrator
+
