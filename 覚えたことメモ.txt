@@ -1,4 +1,18 @@
+意味の小さい・大きい
+
 byte < short < int < long　整数
 float < double　小数点
 "char '一文字' < String "文字列"
 "boolearn true or fales
+
+byte n =0;
+short n =0;
+int n =0;
+long n =0L;
+
+float n =0f;
+double n =0;
+char t ='';
+String txt ="";
+
+boolean = true;    (or false;)もしくは比較演算子を使った条件式
